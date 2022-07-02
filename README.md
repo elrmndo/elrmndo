@@ -13,6 +13,6 @@ I'm Enrique. You can call me Ricky. A Full Stack Developer with 5+ years of prog
 ### 📬 Get in Touch
 
 - Personal Site: https://elrmndo.dev
-- LinkedIn: https://www.linkedin.com/in/elrmndo/
+- LinkedIn: https://www.linkedin.com/in/elrmndo
 - DEV.to: https://dev.to/elrmndo
-- Twitter: https://twitter.com/elrmndo/
+- Twitter: https://twitter.com/elrmndo
