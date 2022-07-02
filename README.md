@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello, Kamusta? 👋
 
-<!--
-**elrmndo/elrmndo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Enrique. You can call me Ricky. A Full Stack Developer with 5+ years of progressive experience. I develop simple to complex information systems and web applications with REST or GraphQL APIs from the ground up using NodeJS, ReactJS, TypeScript and TailwindCSS.
 
-Here are some ideas to get you started:
+### ❤️ More About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning: Flutter
+- 👯 I’m looking to collaborate on reactjs projects
+- 📫 How to reach me: me@elrmndo.dev
+- 😄 Pronouns: He/Him
+- ⚡ What I do outside work: Reading Books, Meditation
+
+### 📬 Get in Touch
+
+- Personal Site: https://elrmndo.dev
+- LinkedIn: https://www.linkedin.com/in/elrmndo/
+- DEV.to: https://dev.to/elrmndo
+- Twitter: https://twitter.com/elrmndo/
