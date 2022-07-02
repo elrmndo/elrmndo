@@ -6,12 +6,12 @@ I'm Enrique. You can call me Ricky. A Full Stack Developer with 5+ years of prog
 
 - 🌱 I’m currently learning: Flutter
 - 👯 I’m looking to collaborate on reactjs projects
-- 📫 How to reach me: me@elrmndo.dev
 - 😄 Pronouns: He/Him
 - ⚡ What I do outside work: Reading Books, Meditation, YouTube, Reddit, Anime
 
 ### 📬 Get in Touch
 
+- Email: me@elrmndo.dev
 - Personal Site: https://elrmndo.dev
 - LinkedIn: https://www.linkedin.com/in/elrmndo
 - DEV.to: https://dev.to/elrmndo
