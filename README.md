@@ -16,3 +16,4 @@ I'm Enrique. You can call me Ricky. A Full Stack Developer with 5+ years of prog
 - LinkedIn: https://www.linkedin.com/in/elrmndo
 - DEV.to: https://dev.to/elrmndo
 - Twitter: https://twitter.com/elrmndo
+- Google Developer Profile: https://developers.google.com/profile/u/elrmndo
