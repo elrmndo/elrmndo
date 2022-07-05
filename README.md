@@ -1,6 +1,6 @@
 ### Hello, Kamusta? 👋
 
-I'm Enrique. You can call me Ricky. A Full Stack Developer with 5+ years of progressive experience. I develop simple to complex information systems and web applications with REST or GraphQL APIs from the ground up using NodeJS, ReactJS, TypeScript and TailwindCSS.
+I'm Enrique. You can call me Ricky. A Front End Developer with 5+ years of progressive experience. I develop simple to complex information systems and web applications with REST or GraphQL APIs from the ground up using NodeJS, ReactJS, TypeScript and TailwindCSS.
 
 ### ❤️ More About me
 
