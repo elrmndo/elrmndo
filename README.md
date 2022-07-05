@@ -4,7 +4,7 @@ I'm Enrique. You can call me Ricky. A Full Stack Developer with 5+ years of prog
 
 ### ❤️ More About me
 
-- 🌱 I’m currently learning: Flutter
+- 🌱 I’m currently learning: Flutter, Python
 - 👯 I’m looking to collaborate on reactjs projects
 - 😄 Pronouns: He/Him
 - ⚡ What I do outside work: Reading Books, Meditation, YouTube, Reddit, Anime
